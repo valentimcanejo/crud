@@ -28,5 +28,5 @@ $ npm i
 # Inicie a aplicação em cada pasta do projeto.
 $ npm start
 
-# O projeto front-end iniciará na porta 3000, e o JSON server na porrta 3001.
+# O projeto front-end iniciará na porta 3000, e o JSON server na porta 3001.
 ```
